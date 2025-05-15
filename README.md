@@ -28,7 +28,7 @@ File containing the multi-factor model structures needed for measurement invaria
 #### One Factor Models 
 File containing the uni-factor model structures needed for measurement invariance analysis.
 
-[Download Factor_Models.RDS](https://github.com/Lucy-Wal/Autism_Measurement_Invariance/blob/main/Data/One_Models.rds)
+[Download One_Models.RDS](https://github.com/Lucy-Wal/Autism_Measurement_Invariance/blob/main/Data/One_Models.rds)
 
 #### Study Data 
 All data was collected between September 12th 2022 and September 22nd 2022.
